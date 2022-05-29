@@ -24,8 +24,6 @@ Unlock the Bios with this tool: https://winraid.level1techs.com/t/tool-lenovo-h2
 
 Apply power plans.
 
-PowerPlans:https://cdn.discordapp.com/attachments/937155930947190834/937528830623621120/PowerPlan_INTEL_legion_18Jan22.zip
-
-There's two folders inside it. One is the 'original' (grabbed them from Lenovo's forums, not sure the exact origin) and then another that has my own tweaks applied. I use them with the Lenovo Legion Toolkit from Github instead of Vantage. So Fn+Q changes power modes, and the Windows Plans change accordingly as well.Vantage is still installed, but disabled. So it doesn't run unless I want it to.
+PowerPlans:  There's two folders inside it. One is the 'original' (grabbed them from Lenovo's forums, not sure the exact origin) and then another that has my own tweaks applied. I use them with the Lenovo Legion Toolkit from Github instead of Vantage. So Fn+Q changes power modes, and the Windows Plans change accordingly as well.Vantage is still installed, but disabled. So it doesn't run unless I want it to.
 
 edit: Special thanks to SmokelessCPU for writing the bios unlock utility and talking me through the process!
