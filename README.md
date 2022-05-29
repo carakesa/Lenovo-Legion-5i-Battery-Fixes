@@ -22,8 +22,13 @@ Unlock the Bios with this tool: https://winraid.level1techs.com/t/tool-lenovo-h2
 
     Save & Reboot
 
-Apply power plans.
+Windows Power Plans:  https://github.com/carakesa/Lenovo-Legion-5i-Battery-Fixes/blob/main/PowerPlan_INTEL_legion_18Jan22.zip
 
-PowerPlans:  There's two folders inside it. One is the 'original' (grabbed them from Lenovo's forums, not sure the exact origin) and then another that has my own tweaks applied. I use them with the Lenovo Legion Toolkit from Github instead of Vantage. So Fn+Q changes power modes, and the Windows Plans change accordingly as well.Vantage is still installed, but disabled. So it doesn't run unless I want it to.
 
-edit: Special thanks to SmokelessCPU for writing the bios unlock utility and talking me through the process!
+There's two folders in the zip. One is the 'original' (grabbed them from Lenovo's forums, not sure the exact origin) and then another that has my own tweaks applied. 
+
+I use them with the Lenovo Legion Toolkit from Github ( https://github.com/BartoszCichecki/LenovoLegionToolkit ) instead of Vantage. This will allow Fn+Q changes to the power modes to adjust the Windows Plans change accordingly.
+
+Personally, I keep Vantage installed, but disabled. So it doesn't run unless I want it to.
+
+edit: Special thanks to the other contributors for writing the bios unlock utility, Legion Toolkit, and talking me through the process
