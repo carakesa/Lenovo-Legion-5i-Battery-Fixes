@@ -1,4 +1,16 @@
 # Lenovo-Legion-5i-Battery-Fixes
+
+
+===================================================
+* READ:   These instructions were written based on this https://github.com/SmokelessCPUv2/LenovoH2O-Unlocker bios unlocker.
+
+* Latest BIOS and 2022 Model are not supported by the H2O Unlocker and instead require something like:  https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher#lenovo-bios-unlock
+ 
+* Please follow the directions for the SmokelessRuntimeEFIPatcher for newer Legion's and udpated BIOS releases
+===================================================
+
+
+
 Notes and utilities for fixing the excessive battery drain on Lenovo Legion Laptops due to Intel and ACPI &amp; ASPM settings
 
 
@@ -8,7 +20,9 @@ Disclaimer: Use at your own risk. No warranty expressed or implied. You're respo
 
 Beware dangerous options and menus ahead, if you don't know what you're doing.
 
-Unlock the Bios with this tool: https://winraid.level1techs.com/t/tool-lenovo-h20-bios-unlocker-and-locker/38150
+Unlock the Bios with this tool: 
+
+https://winraid.level1techs.com/t/tool-lenovo-h20-bios-unlocker-and-locker/38150
 
 **Not sure if this still works on the latest (2022) Bios versions.
 
